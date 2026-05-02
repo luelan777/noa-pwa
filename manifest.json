@@ -1,0 +1,18 @@
+{
+  "name": "Noa",
+  "short_name": "Noa",
+  "description": "Tu compañera de IA",
+  "start_url": "./noa.html",
+  "display": "standalone",
+  "background_color": "#0a0008",
+  "theme_color": "#0a0008",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%230a0008'/><circle cx='96' cy='96' r='52' fill='none' stroke='%23FF69B4' stroke-width='2' opacity='0.4'/><circle cx='96' cy='96' r='38' fill='url(%23g)'/><defs><radialGradient id='g' cx='40%25' cy='35%25'><stop offset='0' stop-color='%23ffd4ec'/><stop offset='0.5' stop-color='%23FF69B4'/><stop offset='1' stop-color='%23300020'/></radialGradient></defs></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
